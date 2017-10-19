@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Supervisor.dir/main.c.o  -o Supervisor 
